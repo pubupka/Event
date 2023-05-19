@@ -1,7 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Калькулятор,_засунутый_в_событие
+namespace Калькулятор_засунутый_в_событие
 {
     class Calculator
     {
